@@ -1,0 +1,46 @@
+/* Estilos generales */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e4c9a2; /* Un tono suave de nude */
+    color: #7e675e; /* Un tono complementario para el texto */
+  }
+  
+  /* Encabezado y navegación */
+  header {
+    background-color: #e6d99e;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav li {
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #ff6b6b;
+  }
+  
+  /* Estilos para otras secciones, como proyectos, sobre mí, contacto, etc. */
+  /* Recuerda usar tonos suaves y armoniosos que encajen con el estilo nude */
+  
+  /* Media queries para ajustar el diseño en dispositivos móviles */
+  @media screen and (max-width: 768px) {
+    /* Ajustes de diseño responsivo */
+  }
+  
